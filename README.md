@@ -23,7 +23,7 @@ If you want to download this repository and open it locally, there are no prereq
 
 * **Tyler Walker** - *Game Logic Developer* - [tgwalker93](https://github.com/tgwalker93)
 * **Tammy Le** - *Front-End Developer* - [letam245](https://github.com/letam245)
-* **David Luu** - *Front-End Developer* - [chrisjal](https://github.com/chrisjal)
+* **David Luu** - *Front-End Developer* - [dluu0630](https://github.com/dluu0630)
 * **Omar Solis** - *Firebase Developer* - [Yakoloi](https://github.com/Yakoloi)
 
 ---
