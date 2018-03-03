@@ -1,4 +1,5 @@
-.DS_store
+.DS_Store
 .assets
-.404.html
+404.html
 .resources
+.firebaserc
