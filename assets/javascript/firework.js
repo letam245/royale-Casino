@@ -10,11 +10,11 @@ window.requestAnimFrame = ( function() {
 })();
 
 // now we will setup our basic variables for the demo
-var canvas = document.getElementById( 'canvas' ),
-		ctx = canvas.getContext( '2d' ),
+var canvas = document.getElementById('my-canvas'),
+		ctx = canvas.getContext('2d') ,
 		// full screen dimensions
 		cw = window.innerWidth,
-		ch = window.innerHeight,
+		ch = window.innerHeight*3.6,
 		// firework collection
 		fireworks = [],
 		// particle collection
@@ -74,7 +74,7 @@ function Firework( sx, sy, tx, ty ) {
 	}
 	this.angle = Math.atan2( ty - sy, tx - sx );
 	this.speed = 2;
-	this.acceleration = 1.05;
+	this.acceleration = 1.1;
 	this.brightness = random( 50, 70 );
 	// circle target indicator radius
 	this.targetRadius = 1;
